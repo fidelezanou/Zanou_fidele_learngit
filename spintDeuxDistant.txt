@@ -3,4 +3,5 @@ je veux pouvoir inscrire des etudiants a des classes.
 je veux pouvoir generer automatiquement l'emplie du temps d'une classe en fonction des cours et des enseignants disponibles
 En tant que directeur d 'etudes, je veux pouvoir exporter les emplois du temps au format PDF ou excel
 Sprint 3 :Ameliorations et Personnalisation 
+En tant que directeur d'etudes, je veux pouvoir personnaliser l'affiche de l'emploie du temps (couleur, format) 
 
