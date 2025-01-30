@@ -1,2 +1,3 @@
 En tant que directeur d'etudes, je veux pouvoir creer, modifier et supprimer des classes ( nome, niveau, specialites)
 je veux pouvoir inscrire des etudiants a des classes.
+je veux pouvoir generer automatiquement l'emplie du temps d'une classe en fonction des cours et des enseignants disponibles
