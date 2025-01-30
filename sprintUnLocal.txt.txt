@@ -1,2 +1,3 @@
 En tant que directeur d'études, je dois pouvoir me connecter a l'application avec un identifiant et un mot de passe sécurisés
-En tant que directeur d'etudes, je pouvoir créer, modifier et supprimer des cours (intutile, horaire, salle, enseignant) 
+En tant que directeur d'etudes, je pouvoir créer, modifier et supprimer des cours (intutile, horaire, salle, enseignant)
+En tant que directeur d'etudes, je veux pouvoir attribuer des enseignants a des cours  
