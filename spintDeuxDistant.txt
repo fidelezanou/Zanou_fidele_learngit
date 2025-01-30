@@ -4,5 +4,6 @@ je veux pouvoir generer automatiquement l'emplie du temps d'une classe en foncti
 En tant que directeur d 'etudes, je veux pouvoir exporter les emplois du temps au format PDF ou excel
 Sprint 3 :Ameliorations et Personnalisation 
 En tant que directeur d'etudes, je veux pouvoir personnaliser l'affiche de l'emploie du temps (couleur, format)
-En tant que directeur d'etudes, je veux recevoir une notification  en cas e conflit d'emploie du temps (cours doublement planifie, enseignant indisponible) 
+En tant que directeur d'etudes, je veux recevoir une notification  en cas e conflit d'emploie du temps (cours doublement planifie, enseignant indisponible)
+En tant que directeur d'etudes, je veux pouvoir resoudre manuellement les conflits d'emploie du temps  
 
